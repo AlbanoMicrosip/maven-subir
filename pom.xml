@@ -58,7 +58,7 @@
 					<outputDirectory>${project.build.directory}/mvn-repo</outputDirectory> <!-- matches distribution management repository url above -->
 					<branch>refs/heads/mvn-repo</branch>                       <!-- remote branch name -->
 					<includes><include>**/*</include></includes>
-					<repositoryName>githubPrueba</repositoryName>      <!-- github repo name -->
+					<repositoryName>maven-subir</repositoryName>      <!-- github repo name -->
 					<repositoryOwner>AlbanoMicrosip</repositoryOwner>    <!-- github username  -->
 				</configuration>
 				<executions>
